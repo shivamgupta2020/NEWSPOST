@@ -1,6 +1,6 @@
 import NavBar from "./components/NavBar"
 import NewsLists from "./components/NewsLists"
-import { useState } from "react"
+import { useState, React } from "react"
 
  const App = () => {
   const [category, setCategory] = useState("general");

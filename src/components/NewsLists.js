@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, React } from "react";
 import { useEffect } from "react";
 import NewsItem from "./NewsItem";
 const NewsLists = ({ category }) => {
